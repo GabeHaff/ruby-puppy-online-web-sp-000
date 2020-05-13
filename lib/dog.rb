@@ -16,5 +16,5 @@ def self.print_all
     dogs_array=[]
     puts dogs_array << dogs.name 
   end 
-  
+end 
 end 
