@@ -11,6 +11,8 @@ def self.all
 @@all 
 end 
 
+def self.clear
+
 def self.print_all
   @@all.collect do |dogs| 
     dogs_array=[]
