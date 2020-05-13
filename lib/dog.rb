@@ -13,6 +13,7 @@ end
 
 def self.print_all
   @@all.collect do |dogs| 
+    dogs_array=[]
     
   end 
   
