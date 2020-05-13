@@ -12,7 +12,7 @@ def self.all
 end 
 
 def self.print_all
-  self.each puts @name 
+  
   end 
   
 end 
