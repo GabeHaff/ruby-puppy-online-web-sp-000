@@ -12,7 +12,8 @@ def self.all
 end 
 
 def self.print_all
-  @@all.collect do |dog| 
+  @@all.collect do |dogs| 
+    
   end 
   
 end 
